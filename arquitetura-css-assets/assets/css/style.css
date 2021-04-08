@@ -1,0 +1,41 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f9f9f9;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+header nav ul{
+    display: flex;
+}
+
+header nav ul li{
+    margin-right: 1.25rem;
+    list-style: none;
+}
+
+header nav ul li:last-child a{
+    margin-right: none;
+}
+
+header nav ul li a#ativo{
+    color: black;
+    font-weight: bold;
+}
+
+header nav ul li:last-child a{
+    margin-right: none;
+}
+
+header nav ul li a:hover{
+    text-decoration: underline;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: #808080;
+    text-transform: lowercase;
+
+}
