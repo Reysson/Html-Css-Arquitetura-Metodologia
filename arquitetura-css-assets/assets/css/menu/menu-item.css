@@ -1,0 +1,12 @@
+.menu-item {
+    margin-right: 1.25rem;
+    list-style: none;
+}
+
+.menu-item:last-child .menu-link {
+    margin-right: none;
+}
+
+.menu-item:last-child .menu-link {
+    margin-right: none;
+}
