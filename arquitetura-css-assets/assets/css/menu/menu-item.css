@@ -1,12 +1,12 @@
-.menu-item {
+.menu__item {
     margin-right: 1.25rem;
     list-style: none;
 }
 
-.menu-item:last-child .menu-link {
+.menu__item:last-child .menu__link {
     margin-right: none;
 }
 
-.menu-item:last-child .menu-link {
+.menu__item:last-child .menu__link {
     margin-right: none;
 }

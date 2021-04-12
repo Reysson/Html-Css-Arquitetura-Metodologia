@@ -1,13 +1,13 @@
-.menu-link.ativo {
+.menu__link.ativo {
     color: black;
     font-weight: bold;
 }
 
-.menu-link:hover {
+.menu__link:hover {
     text-decoration: underline;
 }
 
-.menu-link {
+.menu__link {
     text-decoration: none;
     color: #808080;
     text-transform: lowercase;
